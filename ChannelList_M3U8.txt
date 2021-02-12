@@ -1,4 +1,4 @@
-21
+22
 RTHK31Web http://teslagram.com/live/channel_31.m3u8
 RTHK32Web http://teslagram.com/live/channel_32.m3u8
 RTHKWebLIVE https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
