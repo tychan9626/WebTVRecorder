@@ -5,7 +5,7 @@ FTVN https://www.youtube.com/watch?v=XxJKnDLYZz4
 TVBSN https://www.youtube.com/watch?v=A4FbB8UhNRs
 TTVN https://www.youtube.com/watch?v=xL0ch83RAK8
 CTVN https://www.youtube.com/watch?v=lSZZ3YRsW1w
-EBCN https://www.youtube.com/watch?v=63RmMXCd_bQ
+EBCN https://www.youtube.com/c/newsebc/live
 CTiN https://youtu.be/5tQBwbyQ-Fw
 EBCF https://www.youtube.com/watch?v=68lLQ7hkdzU
 TWLegYuanCh1 https://www.youtube.com/watch?v=PQLMD4iHhG8
@@ -15,6 +15,6 @@ BloombergGlobalFinancialNews https://www.youtube.com/watch?v=dp8PhLsUcFE
 ABCUSANews https://www.youtube.com/watch?v=w_Ma8oQLmSM
 CNA https://www.youtube.com/watch?v=XWq5kBlakcQ
 ANNJapanNews https://www.youtube.com/watch?v=coYw-eVU0Ks
-DWNews https://www.youtube.com/watch?v=gOoTbPssAo4
+DWNews https://www.youtube.com/watch?v=HeTWwH1a0CQ
 ABCAustraliaNews https://www.youtube.com/watch?v=W1ilCy6XrmI
 France24English https://www.youtube.com/watch?v=HeTWwH1a0CQ
