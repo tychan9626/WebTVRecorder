@@ -1,4 +1,4 @@
-22
+23
 RTHK31Web http://teslagram.com/live/channel_31.m3u8
 RTHK32Web http://teslagram.com/live/channel_32.m3u8
 RTHKWebLIVE https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
@@ -21,3 +21,4 @@ ABCUSANewsWeb https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6b
 FoxNewsWeb http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 CGTNWeb https://live.cgtn.com/1000/prog_index.m3u8
 BloombergTVEurope http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+ERANews http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
