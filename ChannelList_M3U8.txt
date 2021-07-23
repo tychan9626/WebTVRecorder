@@ -1,4 +1,4 @@
-78
+79
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
 HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
 HKweb-RTHKlive https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
@@ -27,6 +27,7 @@ HK-HKOTV http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/776284882?p
 HK-Jade http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1904720789?profile=pass
 HK-J2 http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1201568493?profile=pass
 HK-TVBN http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1157442684?profile=pass
+HK-TVBNSat http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/506584723?profile=pass
 HK-Pearl http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1614893431?profile=pass
 HK-TVBFI http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/78256906?profile=pass
 HKweb-TVBNScreen2 http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1506106770?profile=pass
