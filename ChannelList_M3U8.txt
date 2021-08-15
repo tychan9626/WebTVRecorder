@@ -7,6 +7,12 @@ HKweb-nowDIRECT http://teslagram.com/live/channel_331.m3u8
 HKweb-CableNEWS http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1078696884?profile=pass
 HKweb-CableF http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1242728017?profile=pass
 HKweb-CableLiveNEWS http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/304902093?profile=pass
+HKweb-Jade https://cdn.hkdtmb.com/hls/81/index.m3u8
+HKweb-J2 https://cdn.hkdtmb.com/hls/82/index.m3u8
+HKweb-TVBN https://cdn.hkdtmb.com/hls/83/index.m3u8
+HKweb-Pearl https://cdn.hkdtmb.com/hls/84/index.m3u8
+HKweb-Pearl2 https://cdn.hkdtmb.com/hls/84b/index.m3u8
+HKweb-TVBFI https://cdn.hkdtmb.com/hls/85/index.m3u8
 TWweb-NextTVNEWS http://stream.nexttv.com.tw/n001/hd/live.m3u8
 JPweb-NHKWorld https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 USweb-CNNInternational http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
