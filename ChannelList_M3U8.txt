@@ -1,4 +1,4 @@
-92
+89
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
 HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
 HKweb-RTHKlive https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
@@ -80,13 +80,8 @@ TW-TWSNG http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1120579773?
 TW-TTVTaichungSNG http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1552000916?profile=pass
 TW-619BSSNG http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/1386105235?profile=pass
 TW-EBCNSNG http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/942485448?profile=pass
-TWweb-CTSN https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv052/4gtv-live-mid/index.m3u8?token=02HoUpruyPGuPJY0oEfkZQ&expires=1621908177&token1=L0GbdgZhzs4REQB4Jj4Hbg&expires1=1621908177
-TWweb-FTVCH1 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=Dv0QNrzveNwiGOyv2fmecg&expires=1621908333&token1=06A6XQyfGHZDD5J9wN0-jw&expires1=1621908333
-TWweb-FTVTW https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/index.m3u8?token=mkRa_Si15MY0lY6Fd9IuSQ&expires=1621908414&token1=rG7f-NnGjD3rEYvI5ZMWhw&expires1=1621908414
-TWweb-FTVN https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv13/4gtv-live-mid/index.m3u8?token=4aZN0Y2UEUb8rVpFlbFofw&expires=1621908518&token1=dx2ek1ORRKW2RJrgKsOGTg&expires1=1621908518
-CNWeb-GDTY http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 UK-BBCNews http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/2114609324?profile=pass
-QA-AlJazeeraEnglishhttp://jack:jack789@ymk.killugon.icu:24935/stream/channelid/429756742?profile=pass
+QA-AlJazeeraEnglish http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/429756742?profile=pass
 US-CNN http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/885487478?profile=pass
 DE-DWNews http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/904562285?profile=pass
 JP-NHKWorld http://jack:jack789@ymk.killugon.icu:24935/stream/channelid/962335505?profile=pass
