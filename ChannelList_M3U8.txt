@@ -2,7 +2,7 @@
 HK-Jade http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 HK-Pearl http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
-HKweb-RTHK32 https://cdn.hkdtmb.com/hls/32/index.m3u8
+HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
 HKweb-RTHK33CCTV1 https://cdn.hkdtmb.com/hls/33/index.m3u8
 HKweb-HKIBC https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1640617122-1640703702-0f08f0e650905883ce512d67785eb379-8d9c98cd9214d8d_69d-03/opentvhd002_h.live/chunklist_w1713991622.m3u8
 HKweb-HKOTV https://cdn.hkdtmb.com/hls/77/index.m3u8
