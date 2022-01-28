@@ -1,21 +1,12 @@
-56
-HK-Jade http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
+42
+HK-J2 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+HK-TVBN http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 HK-Pearl http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+HK-TVBFI http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
 HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
-HKweb-RTHK33CCTV1 https://cdn.hkdtmb.com/hls/33/index.m3u8
 HKweb-HKIBC https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1640617122-1640703702-0f08f0e650905883ce512d67785eb379-8d9c98cd9214d8d_69d-03/opentvhd002_h.live/chunklist_w1713991622.m3u8
-HKweb-HKOTV https://cdn.hkdtmb.com/hls/77/index.m3u8
-HKweb-Jade https://cdn.hkdtmb.com/hls/81/index.m3u8
-HKweb-Jade2 https://cdn.hkdtmb.com/hls/81b/index.m3u8
-HKweb-J2 https://cdn.hkdtmb.com/hls/82/index.m3u8
-HKweb-TVBN http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-HKweb-Pearl https://cdn.hkdtmb.com/hls/84/index.m3u8
-HKweb-Pearl2 https://cdn.hkdtmb.com/hls/84b/index.m3u8
-HKweb-TVBFI https://cdn.hkdtmb.com/hls/85/index.m3u8
-HKweb-ViuTVsix https://cdn.hkdtmb.com/hls/96/index.m3u8
-HKweb-ViuTVsix2 https://cdn.hkdtmb.com/hls/96b/index.m3u8
-HKweb-ViuTV https://cdn.hkdtmb.com/hls/96/index.m3u8
+HKweb-HKOTV http://teslagram.com/live/channel_77.m3u8
 HKweb-RTHKlive https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 HKweb-TVBNScreen2 http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 HKweb-TVBNScreen3 http://www.chahaoquan.com/wz/epg/tvb.php?id=4
@@ -39,13 +30,8 @@ CNweb-ZJTV http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/i
 CNweb-SZTV-HEVC http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227695/index.m3u8
 CNweb-HNTV-HEVC http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221227698/index.m3u8
 TW-GlobalNews http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
-TWweb-FTV http://seb.sason.top/ptv/ftv.php?id=ms
-TWweb-FTVCH1 http://seb.sason.top/ptv/ftv.php?id=dy
-TWweb-FTVTW http://seb.sason.top/ptv/ftv.php?id=tw
 TWweb-SETTW https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 TWweb-SETMetro https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-TWweb-TTVN http://seb.sason.top/sc/tsxw_fhd.m3u8
-TWweb-CTiN http://seb.sason.top/sc/ztxw_fhd.m3u8
 TWweb-NextTVNEWS http://stream.nexttv.com.tw/n001/hd/live.m3u8
 JPweb-NHKWorld https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 SGweb-ChannelNewsAsia https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
