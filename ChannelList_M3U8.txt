@@ -1,13 +1,14 @@
-42
+43
 HK-J2 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 HK-TVBN http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 HK-Pearl http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 HK-TVBFI http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
 HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
-HKweb-HKIBC https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1640617122-1640703702-0f08f0e650905883ce512d67785eb379-8d9c98cd9214d8d_69d-03/opentvhd002_h.live/chunklist_w1713991622.m3u8
+HKweb-HKIBC -
 HKweb-HKOTV http://teslagram.com/live/channel_77.m3u8
 HKweb-RTHKlive https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
+HKweb-TVBN http://livetv.dnsfor.me:80/channel.10.m3u8
 HKweb-TVBNScreen2 http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 HKweb-TVBNScreen3 http://www.chahaoquan.com/wz/epg/tvb.php?id=4
 HKweb-nowNEWS http://livetv.dnsfor.me:80/channel.4.m3u8
