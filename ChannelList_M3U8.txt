@@ -1,4 +1,4 @@
-61
+63
 HK-RTHK31 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 HK-RTHK32 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 HK-RTHK33CCTV1 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
@@ -60,3 +60,5 @@ USweb-CNN https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 UAweb-UkraineNews http://iptv.tvfix.org/hls/prmua.m3u8
 RUweb-Russia24 http://iptv.tvfix.org/hls/russia24.m3u8
 QAweb-AlJazeeraEnglish https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+DEweb-DWNews https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+RUweb-RTNews https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
