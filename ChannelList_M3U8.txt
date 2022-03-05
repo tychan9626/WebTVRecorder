@@ -1,7 +1,9 @@
-67
+69
 HK-RTHK31 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 HK-RTHK32 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 HK-RTHK33CCTV1 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
+HK-HKIBC http://185.207.176.189:8080/channels/tv-76/playlist.m3u8
+HK-HKOTV http://185.207.176.189:8080/channels/tv-77/playlist.m3u8
 HK-Jade http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 HK-J2 http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 HK-TVBN http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
@@ -30,7 +32,6 @@ HKweb-TVBNScreen3 -
 HKweb-nowNEWS http://livetv.dnsfor.me:80/channel.4.m3u8
 HKweb-nowDIRECT https://api.leonardpark.dev/live/now/331
 HKweb-nowF -
-HKweb-TVBNSat https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 CNweb-TDMHome http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 CNweb-TDMMacau http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 CNweb-TDMSat http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
@@ -48,6 +49,7 @@ CNweb-CCTV4K http://iptv.tvfix.org/hls/cctv4k.m3u8
 CNweb-CGTN http://iptv.tvfix.org/hls/cgtnhd.m3u8
 CNweb-HNTV http://iptv.tvfix.org/hls/hunanhd.m3u8
 CNweb-DFTV http://iptv.tvfix.org/hls/dfhd.m3u8
+CNweb-GDTV http://iptv.tvfix.org/hls/gdhd.m3u8
 TWweb-NextTVNEWS http://stream.nexttv.com.tw/n001/hd/live.m3u8
 TWweb-TVBSN http://iptv.tvfix.org/hls/tvbsnews.m3u8
 JPweb-NHKWorld https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
