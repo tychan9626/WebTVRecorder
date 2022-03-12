@@ -1,4 +1,4 @@
-69
+81
 HK-RTHK31 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 HK-RTHK32 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 HK-RTHK33CCTV1 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
@@ -11,6 +11,18 @@ HK-Pearl http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 HK-TVBFI http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 HK-ViuTVsix http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 HK-ViuTV http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+HK-RTHK31_Ver2 https://cdn.hkdtmb.com/raw/31.ts
+HK-RTHK32_Ver2 https://cdn.hkdtmb.com/raw/32.ts
+HK-RTHK33CCTV1_Ver2 https://cdn.hkdtmb.com/raw/33.ts
+HK-HKIBC_Ver2 https://cdn.hkdtmb.com/raw/76.ts
+HK-HKOTV_Ver2 https://cdn.hkdtmb.com/raw/77.ts
+HK-Jade_Ver2 https://cdn.hkdtmb.com/raw/81.ts
+HK-J2_Ver2 https://cdn.hkdtmb.com/raw/82.ts
+HK-TVBN_Ver2 https://cdn.hkdtmb.com/raw/83.ts
+HK-Pearl_Ver2 https://cdn.hkdtmb.com/raw/84.ts
+HK-TVBFI_Ver2 https://cdn.hkdtmb.com/raw/85.ts
+HK-ViuTVsix_Ver2 https://cdn.hkdtmb.com/raw/96.ts
+HK-ViuTV_Ver2 https://cdn.hkdtmb.com/raw/99.ts
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
 HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
 HKweb-HKIBC http://iptv.tvfix.org/hls/hkibc.m3u8
