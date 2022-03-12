@@ -64,6 +64,11 @@ CNweb-DFTV http://iptv.tvfix.org/hls/dfhd.m3u8
 CNweb-GDTV http://iptv.tvfix.org/hls/gdhd.m3u8
 TWweb-NextTVNEWS http://stream.nexttv.com.tw/n001/hd/live.m3u8
 TWweb-TVBSN http://iptv.tvfix.org/hls/tvbsnews.m3u8
+TWweb-FTV https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv002/4gtv-live-mid/index.m3u8?token=_X7k7mQ_P4Z1schlDz2rrQ&expires=1647109838&token1=CoBp3vgfTRSSYWVFOeZFBA&expires1=1647109838
+TWweb-FTVCH1 https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv003/4gtv-live-mid/index.m3u8?token=AqMzex7ffwGQprB3qM-0HQ&expires=1647110451&token1=_E4aoMq7w2GYRc6UmF0IAg&expires1=1647110451
+TWweb-FTVN https://4gtvfreepc-cds.cdn.hinet.net/live/pool/litv-ftv13/4gtv-live-mid/index.m3u8?token=3eyDmEVWuuHY-Zqjv4mXyg&expires=1647110974&token1=XdYk-h5WdsMQD-_f-egS_A&expires1=1647110974 
+TWweb-FTVTW https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv001/4gtv-live-mid/index.m3u8?token=7Ri_mOJdKLVISoxaIxWrCw&expires=1647110821&token1=ssVPrrWHAXnTyIPSBmUm-Q&expires1=1647110821
+TWweb-CTSN https://4gtvfreepc-cds.cdn.hinet.net/live/pool/4gtv-4gtv052/4gtv-live-mid/index.m3u8?token=9pRUJy7UVaBxW96F0Ln1DQ&expires=1647110883&token1=nNc2sMGQMuIGLJn_zOf9Cw&expires1=1647110883
 JPweb-NHKWorld https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 SGweb-ChannelNewsAsia https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 KRweb-ArirangTV http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
