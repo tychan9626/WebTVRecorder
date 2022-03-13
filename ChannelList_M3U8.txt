@@ -1,4 +1,4 @@
-81
+86
 HK-RTHK31 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 HK-RTHK32 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 HK-RTHK33CCTV1 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
