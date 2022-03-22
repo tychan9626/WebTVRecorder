@@ -1,4 +1,4 @@
-81
+82
 HK-RTHK31 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 HK-RTHK32 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 HK-RTHK33CCTV1 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
@@ -64,6 +64,7 @@ CNweb-CCTV4K http://iptv.tvfix.org/hls/cctv4k.m3u8
 CNweb-CGTN http://iptv.tvfix.org/hls/cgtnhd.m3u8
 TWweb-NextTVNEWS http://stream.nexttv.com.tw/n001/hd/live.m3u8
 TWweb-TVBSN http://iptv.tvfix.org/hls/tvbsnews.m3u8
+TWweb-SETN http://59.125.101.187:8590/1.m3u8
 JPweb-NHKWorld https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 SGweb-ChannelNewsAsia https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 KRweb-ArirangTV http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
