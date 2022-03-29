@@ -1,4 +1,4 @@
-84
+85
 HK-RTHK31 http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 HK-RTHK32 http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 HK-RTHK33CCTV1 http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
@@ -28,6 +28,7 @@ HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
 HKweb-HKIBC http://iptv.tvfix.org/hls/hkibc.m3u8
 HKweb-HKOTV http://teslagram.com/live/channel_77.m3u8
 HKweb-Jade http://iptv.tvfix.org/hls/jade.m3u8
+HKweb-Jade_Ver2 http://iptv.tvfix.org/hls/jade2.m3u8
 HKweb-JadeInt http://iptv.tvfix.org/hls/jadenhk.m3u8
 HKweb-J2 http://iptv.tvfix.org/hls/j2.m3u8
 HKweb-TVBN http://iptv.tvfix.org/hls/inews.m3u8
