@@ -1,25 +1,23 @@
-24
+22
 TWweb-CTSN https://www.youtube.com/watch?v=wM0g8EoUZ_E
 TWweb-CTVN https://www.youtube.com/watch?v=TCnaIE_SAtM
 TWweb-SETN https://youtu.be/FoBfXvlOR6I
 TWweb-SETiNews https://www.youtube.com/watch?v=CKjSm5ZeehE
-TWweb-FTVN https://youtu.be/XGEmg3vhrzU
+TWweb-FTVN https://www.youtube.com/watch?v=yguQ1SzPM5U
 TWweb-TVBSN https://www.youtube.com/watch?v=2mCSYvcfhtc
 TWweb-TVBS https://www.youtube.com/watch?v=hP6_jfCFxyQ
 TWweb-TTVN https://www.youtube.com/watch?v=xL0ch83RAK8
 TWweb-EBCN https://www.youtube.com/watch?v=R2iMq5LKXco
-TWweb-CTiN https://www.youtube.com/watch?v=lu_BJKxqGnk
-TWweb-CTiASIA https://www.youtube.com/watch?v=L6g1CrxcSOk
 TWweb-EBCF https://www.youtube.com/watch?v=ABn_ccXn_jc
-TWweb-GlobalNews https://www.youtube.com/watch?v=Fpsi2cmXGMs
-TWweb-LegYuanCh1 https://www.youtube.com/watch?v=jRsyBLhot6E
+TWweb-CTiN https://www.youtube.com/watch?v=_QbRXRnHMVY
+TWweb-CTiASIA https://www.youtube.com/watch?v=L4a9mAc8634
+TWweb-GlobalNews https://www.youtube.com/watch?v=B7Zp3d6xXWw
+TWweb-LegYuanCh1 https://www.youtube.com/watch?v=4HysYHJ6GkY
 TWweb-LegYuanCh2 https://www.youtube.com/watch?v=RAP4h3q6_Sg
 TWweb-MNews https://www.youtube.com/watch?v=5n0y6b0Q25o
 QAweb-AlJazeeraEnglish https://www.youtube.com/watch?v=-upyPouRrB8
 JPweb-ANNNews https://www.youtube.com/watch?v=coYw-eVU0Ks
-DEweb-DWNews https://www.youtube.com/watch?v=V9KZGs1MtP4
-FRweb-France24English https://www.youtube.com/watch?v=jNhh-OLzWlE
-RUweb-RTNews https://www.youtube.com/watch?v=V0I5eglJMRI
+DEweb-DWNews https://www.youtube.com/watch?v=m01az_TdpQI
+FRweb-France24English https://www.youtube.com/watch?v=h3MuIUNCCzI
 CNweb-CCTV4 https://www.youtube.com/watch?v=Qg9U06O2R-s
 USweb-ABCLiveNews https://www.youtube.com/watch?v=w_Ma8oQLmSM
-RUweb-Russia24 https://www.youtube.com/watch?v=T3pYbzFrnQU
