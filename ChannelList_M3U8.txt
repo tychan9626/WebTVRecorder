@@ -1,4 +1,4 @@
-38
+42
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
 HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
 HKweb-RTHK33CCTV1 https://cdn.hklive.tv/raw/33.ts
@@ -25,6 +25,10 @@ CNweb-TDMInfo http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 CNweb-TDMEntertainment https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 CNweb-CGTN https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 TWweb-NextTVNEWS http://stream.nexttv.com.tw/n001/hd/live.m3u8
+TWweb-EraNews http://220.134.196.147:8901/http/116.50.42.18:8081/hls/67/809/ch27.m3u8
+TWweb-FTV http://61.221.81.93:8088/hls/73/815/ch49.m3u8
+TWweb-PTS http://61.221.81.93:8088/hls/73/815/ch50.m3u8
+TWweb-FTVN http://61.221.81.93:8088/hls/73/815/ch51.m3u8
 JPweb-NHKWorld https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 SGweb-ChannelNewsAsia https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 KRweb-ArirangTV http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
