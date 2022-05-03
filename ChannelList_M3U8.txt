@@ -1,10 +1,16 @@
-32
+36
 HKweb-RTHK31 http://teslagram.com/live/channel_31.m3u8
 HKweb-RTHK32 http://teslagram.com/live/channel_32.m3u8
 HKweb-HKOTV http://teslagram.com/live/channel_77.m3u8
 HKweb-RTHKlive https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/master.m3u8
 HKweb-nowNEWS http://livetv.dnsfor.me:80/channel.4.m3u8
 HKweb-nowDIRECT http://livetv.dnsfor.me:80/channel.3.m3u8
+HKweb-nowF http://livetv.dnsfor.me/channel.8.m3u8
+HKweb-TVBN http://livetv.dnsfor.me/channel.10.m3u8
+HKweb-TVBNSat https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+HKweb-TVBFI http://livetv.dnsfor.me/channel.11.m3u8
+HKweb-TVBScreen2 -
+HKweb-TVBScreen3 -
 CNweb-TDMHome http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 CNweb-TDMMacau http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 CNweb-TDMSat http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
@@ -28,6 +34,4 @@ USweb-CNN https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1
 QAweb-AlJazeeraEnglish https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 DEweb-DWNews https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 RUweb-RTNews https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-HKweb-TVBN -
-HKweb-TVBScreen2 -
-HKweb-TVBScreen3 -
+TWweb-EBCAmerica http://38.64.72.148/hls/modn/list/2026/chunklist0.m3u8
